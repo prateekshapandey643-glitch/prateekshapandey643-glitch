@@ -46,7 +46,7 @@
 <div align="left">
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/prateeksha-pandey-659783293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  <a href="https://linkedin.com/in/prateeksha-pandey" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
   </a>
 
@@ -58,7 +58,7 @@
 </div>
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/gauravsharma5722/gauravsharma5722/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/prateekshapandey643-glitch/prateekshapandey643-glitch/output/snake.svg" alt="Snake animation" />
 
 
 
